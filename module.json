@@ -4,7 +4,7 @@
   "version": "1.3.0",
   "compatibility": {
     "minimum": "9",
-    "verified": "10"
+    "verified": "11"
   },
   "id": "RWE",
   "authors": [
@@ -33,8 +33,8 @@
     }
   ],
   "url": "https://github.com/M0nk3yy/RWE",
-  "manifest": "https://github.com/M0nk3yy/RWE/releases/latest/download/module.json",
-  "download": "https://github.com/M0nk3yy/RWE/releases/download/v1.3.0/module.zip",
+  "manifest": "https://raw.githubusercontent.com/SkroxiousDM/RWE//download/module.json",
+  "download": "https://raw.githubusercontent.com/SkroxiousDM/RWE/download/module.zip",
   "relationships": {
     "systems": [
       {
