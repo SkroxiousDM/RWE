@@ -34,7 +34,7 @@
   ],
   "url": "https://github.com/M0nk3yy/RWE",
   "manifest": "https://raw.githubusercontent.com/SkroxiousDM/RWE//download/module.json",
-  "download": "https://raw.githubusercontent.com/SkroxiousDM/RWE/download/module.zip",
+  "download": "https://github.com/SkroxiousDM/RWE/archive/refs/heads/main.zip",
   "relationships": {
     "systems": [
       {
